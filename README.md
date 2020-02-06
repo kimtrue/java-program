@@ -41,7 +41,6 @@
 ## 가게 상세 화면, 정보수정
 
 ![](portfolio_image/storedetail.gif)
-![](portfolio_image/imageslide.gif)
 
 - 가입 시 입력했던 정보를 화면에 나타낸다.  
 
