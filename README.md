@@ -58,11 +58,15 @@
 
 
 ## 단골 등록, 취소
-
-가게를 단골 등록하고 취소 할 수 있다.
+  ![](portfolio_image/frequent.gif)
+  
+  가게를 단골 등록하고 취소 할 수 있다.
 
 
 ## 리뷰 신고, 좋아요, 좋아요 취소
 
 - 리뷰를 사유와 함께 신고할 수 있다.
+
+ ![](portfolio_image/like_check.gif)
+  ![](portfolio_image/like_cancel.gif)
 - 리뷰를 좋아요, 취소 할 수 있다.
