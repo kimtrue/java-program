@@ -46,6 +46,7 @@
 
   위치 값을 가져와 GoogleMap API을 사용해 지도 상에 나타내 준다. 
 
+
 ![](portfolio_image/image_slider.gif)
 
   상단의 이미지는 리뷰에 등로된 사진을 가져와 사용하고,
@@ -65,7 +66,10 @@
 
 ## 리뷰 신고, 좋아요, 좋아요 취소
 
+  ![](portfolio_image/report.gif)
+
 - 리뷰를 사유와 함께 신고할 수 있다.
+
 
  ![](portfolio_image/like_check.gif)
   ![](portfolio_image/like_cancel.gif)
