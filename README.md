@@ -28,12 +28,12 @@
 
 
 ## GoogleMap API 이용 지도구현
-![](portfolio_image/.gif)
+![](portfolio_image/map.gif)
 
 가입시 입력한 주소 위치값을 기준으로 GoogleMap API를 통해 해당 위치를 지도 상에 그려준다.  
 
 
-![](portfolio_image/.gif)
+![](portfolio_image/mynear.gif)
 
 현재 나의 위치 값을 받아서 가까운 가게 정보를 지도 상에 나타낸다.
 
@@ -42,15 +42,19 @@
 
 ![](portfolio_image/storedetail.gif)
 
-- 가입 시 입력했던 정보를 화면에 나타낸다.  
+- 가입 시 입력했던 정보를 화면에 나타낸다.
+
+  위치 값을 가져와 GoogleMap API을 사용해 지도 상에 나타내 준다. 
+
+![](portfolio_image/image_slider.gif)
 
   상단의 이미지는 리뷰에 등로된 사진을 가져와 사용하고,
   
   리뷰에 사진이 등록되지 않았다면 기본 이미지로 슬라이드 기능을 사용한다.
   
-  위치 값을 가져와 GoogleMap API을 사용해 지도 상에 나타내 준다. 
+  ![](portfolio_image/storemodify.gif)
   
-- 가게의 정보를 수정한다.
+  - 가게의 정보를 수정한다.
 
 
 ## 단골 등록, 취소
