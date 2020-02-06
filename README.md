@@ -28,12 +28,12 @@
 
 
 ## GoogleMap API 이용 지도구현
-![](portfolio_image/map.gif)
+![](portfolio_image/.gif)
 
 가입시 입력한 주소 위치값을 기준으로 GoogleMap API를 통해 해당 위치를 지도 상에 그려준다.  
 
 
-![](portfolio_image/myarround.gif)
+![](portfolio_image/.gif)
 
 현재 나의 위치 값을 받아서 가까운 가게 정보를 지도 상에 나타낸다.
 
