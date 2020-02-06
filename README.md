@@ -14,7 +14,7 @@
 - google map API, KAKAO login API,  Naver login API
 
 ## ERD
-
+![](portfolio_images/erd.png)
 
 ## 나의 역할
 - 전체 DB Table 설계
